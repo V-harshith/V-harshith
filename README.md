@@ -1,6 +1,6 @@
 
 ### Hi there I'm [Harshith!]()👋
-I'm Harshith V, a 21-year old technical enthusiast who does web development, security research. Passionate to contribute open-source projects and make cool products.<br>
+I'm Harshith V, a 21-year old technical enthusiast who does web development, Web3 and Passionate to contribute open-source projects and make cool products.<br>
 ## 📫 How to reach me: 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/Harshithvelneni)
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/harshithrao_)
